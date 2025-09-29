@@ -33,6 +33,7 @@ if (keystorePropertiesFile.exists()) {
 
 android {
     namespace "com.wrteam.bawasiq.seller"
+    compileSdk 35
     ndkVersion flutter.ndkVersion
 
     compileOptions {
@@ -42,7 +43,7 @@ android {
 
 
     kotlinOptions {
-        jvmTarget = '1.1'
+        jvmTarget = '11'
     }
 
     sourceSets {
@@ -54,7 +55,6 @@ android {
         applicationId "com.wrteam.bawasiq.seller"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
-        compileSdkVersion 35
         minSdkVersion flutter.minSdkVersion
         targetSdkVersion 35
         versionCode flutterVersionCode.toInteger()
