@@ -1,0 +1,2 @@
+/Users/hencypithadiya/Documents/egrocer_partner/android/app/.cxx/RelWithDebInfo/492z64v6/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/hencypithadiya/Documents/egrocer_partner/android/app/.cxx/RelWithDebInfo/492z64v6/arm64-v8a/CMakeFiles/rebuild_cache.dir
